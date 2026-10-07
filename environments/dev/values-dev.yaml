@@ -1,2 +1,5 @@
 replicaCount: 1
 environment: dev
+image:
+  tag: sha-77110bb
+  repository: ghcr.io/rcarlson-devops/form-test
